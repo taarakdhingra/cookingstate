@@ -1,1 +1,1 @@
-# cookingstate
+# object_detection_demo
